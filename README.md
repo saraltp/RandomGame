@@ -18,4 +18,4 @@
 ### Función verificadora de número
 
 - Declaramos una función que comprobará el número que agreguemos.
--- Declaramos
+    - Declaramos
