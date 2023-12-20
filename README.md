@@ -53,4 +53,7 @@
 ## Códigos de inicio
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Recuerda que estos códigos se ponen fuera de funciones para que al iniciar la primera vez comiencen a ocurrir cosas. Por ejemplo que aparezcan las estadisticas sin necesidad de darle al botón de "comprobar".
+
+- Modificamos el HTML interno del objeto que contiene el div del HTML para el texto de estadísticas para actualizar los valores de éxito y de fallidos.
+- Llamamos la función generadora de números para que nos genere el primer número que el usuario debe adivinar.
