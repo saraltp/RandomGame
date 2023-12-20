@@ -164,3 +164,15 @@ main {
 
     cursor: pointer;
 }
+
+.correcto {
+    background-color: rgb(227, 253, 227);
+    border-radius: 5px;
+    padding: .5rem 2rem;
+}
+
+.incorrecto {
+    background-color: rgb(253, 227, 227);
+    border-radius: 5px;
+    padding: .5rem 2rem;
+}
